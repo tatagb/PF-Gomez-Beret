@@ -14,6 +14,6 @@ const response = await fetch (this.action, {
 })
 if (response.ok) {
     this.reset ()
-    alert ("PIOLA")
+    alert ("Formulario Enviado")
 }
 };
