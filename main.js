@@ -104,7 +104,6 @@ productos.forEach((producto) => {
                 cantidad: producto.cantidad,
             });
         }
-        counterCarrito ();
         guardadoLocal();
             });
     });
