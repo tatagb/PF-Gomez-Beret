@@ -1,0 +1,49 @@
+/*---MAIN CONTACTO---*/
+@import "../base/variables";
+
+.principalBuscador {
+    background-image: url(../img/fondobuscador.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    @include dimension (100%, 100vh);
+    padding-top: 0;
+    margin: 0px;
+}
+
+      .datosDeApi {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+      
+      .header {
+        text-align: center;
+        color: darkblue;
+        font-weight: bolder;
+        font-family: $fuente;
+        padding: 20px 0;
+      }
+      
+      .header h1 {
+        margin: 0 0 10px 0;
+      }
+      
+      .header select {
+        font-size: 1rem;
+      }
+      
+      .verImagen {
+        flex: 1;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+      }
+      
+      .foto {
+        width: 700px;
+        height: 700px;
+      }
+
