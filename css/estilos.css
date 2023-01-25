@@ -422,7 +422,7 @@ header nav #navbarNav .navbar-nav .contadorCarrito {
     text-align: center;
     padding-top: 20px; }
 
-/*---MAIN CONTACTO---*/
+/*---MAIN BUSCADOR---*/
 header div, header nav .navbar-collapse ul, main .cu, main .cu .tarjetas-de-consejos, main .cu iframe, .mainNosotros section .contenedorDeDr .fila .dr, footer .footer1, footer .footer2, footer .footer3 {
   display: flex;
   justify-content: center;
@@ -465,8 +465,8 @@ header div, header nav .navbar-collapse ul, main .cu, main .cu .tarjetas-de-cons
   align-items: center; }
 
 .foto {
-  width: 700px;
-  height: 700px; }
+  width: 600px;
+  height: 600px; }
 
 /*---MAIN CONTACTO---*/
 header div, header nav .navbar-collapse ul, main .cu, main .cu .tarjetas-de-consejos, main .cu iframe, .mainNosotros section .contenedorDeDr .fila .dr, footer .footer1, footer .footer2, footer .footer3 {
